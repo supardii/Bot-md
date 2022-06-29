@@ -33,7 +33,7 @@ global.background_welcome="https://i.postimg.cc/L84bLpxL/menu-1.jpg" // maks siz
 global.owner = ["6289522183114","6281511480762"] //ganti agar fitur owner bisa di gunakan
 global.packname = '©MIABotོ' //sticker wm ubah
 global.author = 'ROHMANGanzz' //sticker wm ganti nama kalian
-global.sessionName = 'session'
+global.sessionName = 'session.json'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
